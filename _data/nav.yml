@@ -1,0 +1,14 @@
+docs_list_title: Navigation
+docs:
+
+- title: Home page
+  url: index.html
+
+- title: Create your character
+  url: create_character.html
+
+- title: Act 1
+  url: act1.html
+
+- title: Act 2
+  url: act2.html
